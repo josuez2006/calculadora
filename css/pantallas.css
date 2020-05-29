@@ -1,0 +1,35 @@
+.pantallaPrincipal{
+    text-align: center;
+    width: auto;
+    height: 120px;
+    background-color: #001514;
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+    overflow: hidden;
+}
+.pantallaSecundaria{
+    width: 350px;
+    height: 480px;
+    background-color: #001514;
+    color: #66A182;
+    text-align: center;
+}
+.cuenta{
+    font-size: 50px;
+    color: #3E8914; 
+}
+.cuentaPrincipal{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 29px;   
+}
+.cuentaSecundaria{
+    width: auto;
+    height: 400px;
+    font-size: 40px;
+    text-align: center;
+    Word-wrap: break-Word;
+}

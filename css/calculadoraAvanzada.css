@@ -1,0 +1,11 @@
+.Avanzado{
+    padding: 10px 20px;
+    border: none;
+    background-color: #001514;
+    color: seagreen;
+    font-size: 1.1em;
+    position: absolute;
+    top: 13px;
+    right: 20px;
+}
+
